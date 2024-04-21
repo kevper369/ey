@@ -52,9 +52,4 @@ and then execute with `-h` to see the help
 ```
 
 BSGS : 
-
-I also need to make some test in testnet network if you have some Testnet balance can you help me with donations in my testnet address:
-
-Address: msKcxhizYWVvxCACFEG4GCSK1xYrEkib5A
-
-Thank you.
+./keyhunt -m bsgs -f a.txt -r 200000000000000000000000000000000:3ffffffffffffffffffffffffffffffff -n 0x10000000000 -R -k 1024 -t 8 -s 10 -S
